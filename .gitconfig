@@ -1,0 +1,5 @@
+[user]
+	name = nodejs
+	mail = nodejs@gmail.com
+[safe]
+	directory = /home/test
